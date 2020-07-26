@@ -1,15 +1,15 @@
 # IIIT-H OLX
 
 ====================
-   Our Project
+    <Project>
 ====================
 
-We have created a web-app that we lovingly call 'IIITOlx'. As the name suggests, 
+I have created a web-app that I lovingly call 'IIITOlx'. As the name suggests, 
 anyone who has created an account here can post an article about what they want to sell. 
 They just have to add the name of the item they want to sell, the picture of the said item, 
 a small description(optional) and the price at which they are inclined to sell it.
 
-Our application lets the user to view the list of items currently up for sale BUT to 
+This application lets the user to view the list of items currently up for sale BUT to 
 post reviews and remarks (hence making deals and actually buying) the user must be 
 logged in (this is to support the buyer/seller if a breach of trust were to transpire). 
 Once the seller has handed over the product to buyer and recieved the money, 
@@ -17,7 +17,7 @@ they can remove the item from the list of available items. Currently we support 
 and sell options but we shall soon add new options like rent,lost,found,etc.
 
 ===================
-    APP SETUP
+   <APP SETUP>
 ===================
 
 You just need to make sure you have Node.js installed.
@@ -34,7 +34,7 @@ Open the Hackathon directory in your terminal and run
     $ node app.js
 
 ===================
-    DEPLOYING
+   <DEPLOYING>
 ===================
 
 I recommend you to use HEROKU
@@ -52,7 +52,7 @@ BTW I already deployed it
 LINK:- https://iiitolx.herokuapp.com/
 
 =================================
-    FURTHER IDEAS We can Add
+    <FURTHER IDEAS We can Add>
 =================================
 
 1  User can upload pictures rather than copying urls from internet
@@ -63,7 +63,7 @@ LINK:- https://iiitolx.herokuapp.com/
 6  Add reply and delete option for replies also
 
 =========================
-     Need of website
+    <Need of website>
 =========================
 
 As you all know BAKUL HONESTY BOX was complete flop.
@@ -74,7 +74,7 @@ it.This will not create burden on a single person and will be
 helpful for whole Campus
 
 =========================
-    SPECIAL FEATURES
+   <SPECIAL FEATURES>
 =========================
 
 1  Those who are admins can delete and edit any post or query
@@ -83,7 +83,7 @@ helpful for whole Campus
 3  Compatible for Cellphones too
 
 ===================
-<!-- Motivation -->
+   <Motivation>
 ===================
 
 When I came to ken about the 'HackAthon2k20' i decided to make a web application that 
