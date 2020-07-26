@@ -1,8 +1,7 @@
                                                            IIIT-H OLX
 
-====================
-     Project
-====================
+
+                                 Project
 
 I have created a web-app that I lovingly call 'IIITOlx'. As the name suggests, 
 anyone who has created an account here can post an article about what they want to sell. 
@@ -16,9 +15,7 @@ Once the seller has handed over the product to buyer and recieved the money,
 they can remove the item from the list of available items. Currently we support only buy 
 and sell options but we shall soon add new options like rent,lost,found,etc.
 
-===================
-    APP SETUP
-===================
+                              APP SETUP
 
 You just need to make sure you have Node.js installed.
 Open the Hackathon directory in your terminal and run
@@ -33,9 +30,7 @@ Open the Hackathon directory in your terminal and run
     
     $ node app.js
 
-===================
-   <DEPLOYING>
-===================
+                            DEPLOYING
 
 I recommend you to use HEROKU
 Make your account in HEROKU
@@ -51,9 +46,7 @@ Open the Hackathon directory in your terminal and run
 BTW I already deployed it 
 LINK:- https://iiitolx.herokuapp.com/
 
-=================================
-    <FURTHER IDEAS We can Add>
-=================================
+            FURTHER IDEAS We can Add
 
 1  User can upload pictures rather than copying urls from internet
 2  Distribute pages or renting,buying and selling
@@ -62,9 +55,7 @@ LINK:- https://iiitolx.herokuapp.com/
 5  Special page for paid users for other STUFFS // NO PUNS INTENDED
 6  Add reply and delete option for replies also
 
-=========================
-    <Need of website>
-=========================
+                Need of website
 
 As you all know BAKUL HONESTY BOX was complete flop.
 
@@ -73,18 +64,14 @@ many people can keep different items in their room and sell
 it.This will not create burden on a single person and will be
 helpful for whole Campus
 
-=========================
-   <SPECIAL FEATURES>
-=========================
+                SPECIAL FEATURES
 
 1  Those who are admins can delete and edit any post or query
     // Currenly "Him Agrawal" is the only admin but we can add more according to the need
 2  Site supports fuzzy search
 3  Compatible for Cellphones too
 
-===================
-   <Motivation>
-===================
+                   Motivation
 
 When I came to ken about the 'HackAthon2k20' i decided to make a web application that 
 would not only basically be a cognition opportunity for us BUT also something that would actually 
