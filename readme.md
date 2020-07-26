@@ -1,7 +1,7 @@
                                                            IIIT-H OLX
 
 ====================
-    <Project>
+     Project
 ====================
 
 I have created a web-app that I lovingly call 'IIITOlx'. As the name suggests, 
