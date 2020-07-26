@@ -1,7 +1,7 @@
 # IIIT-H OLX
 
 ====================
-<!-- Our Project -->
+   Our Project
 ====================
 
 We have created a web-app that we lovingly call 'IIITOlx'. As the name suggests, 
@@ -17,7 +17,7 @@ they can remove the item from the list of available items. Currently we support 
 and sell options but we shall soon add new options like rent,lost,found,etc.
 
 ===================
-<!-- APP SETUP -->
+    APP SETUP
 ===================
 
 You just need to make sure you have Node.js installed.
@@ -34,7 +34,7 @@ Open the Hackathon directory in your terminal and run
     $ node app.js
 
 ===================
-<!-- DEPLOYING -->
+    DEPLOYING
 ===================
 
 I recommend you to use HEROKU
@@ -52,7 +52,7 @@ BTW I already deployed it
 LINK:- https://iiitolx.herokuapp.com/
 
 =================================
-<!-- FURTHER IDEAS We can Add-->
+    FURTHER IDEAS We can Add
 =================================
 
 1  User can upload pictures rather than copying urls from internet
@@ -63,18 +63,18 @@ LINK:- https://iiitolx.herokuapp.com/
 6  Add reply and delete option for replies also
 
 =========================
-<!-- Need of website -->
+     Need of website
 =========================
 
 As you all know BAKUL HONESTY BOX was complete flop.
 
-We can use this site to run sam etype of service in which
+We can use this site to run same type of service in which
 many people can keep different items in their room and sell
 it.This will not create burden on a single person and will be
-helpful for whole hostel not only for UG2K19.
+helpful for whole Campus
 
 =========================
-<!-- SPECIAL FEATURES -->
+    SPECIAL FEATURES
 =========================
 
 1  Those who are admins can delete and edit any post or query
@@ -86,13 +86,13 @@ helpful for whole hostel not only for UG2K19.
 <!-- Motivation -->
 ===================
 
-When our group came to ken about the 'HackAthon2k20' we decided to make a web application that 
+When I came to ken about the 'HackAthon2k20' i decided to make a web application that 
 would not only basically be a cognition opportunity for us BUT also something that would actually 
 leave our mark on the IIIT community and help the future generations of students who are yet to come here. 
 IIIT community for all intents and purposes is one driven by the students. Our seniors before us literally 
 had created the ever so helpful mess portal, Felicity website and many other things we can't even contemplate 
 living without. Since majority of our team mates were well versed in the ways of web development and rest kind 
-of were tyros in both android and web app development domain, we decided to create a web application 
+of were tyros in both android and web app development domain, I decided to create a web application 
 that would tackle a real life problem. This was the humble beginning of our project (^ v ^).
 
 
