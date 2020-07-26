@@ -17,7 +17,7 @@ they can remove the item from the list of available items. Currently we support 
 and sell options but we shall soon add new options like rent,lost,found,etc.
 
 ===================
-   <APP SETUP>
+    APP SETUP
 ===================
 
 You just need to make sure you have Node.js installed.
